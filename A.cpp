@@ -3,7 +3,11 @@
 int main()
 {
     std::cout << "Hello World!\n"
-        << "Max";
+
+              << "Max" 
+
+              <<"Minimum";
+
     return 0;
 }
 
